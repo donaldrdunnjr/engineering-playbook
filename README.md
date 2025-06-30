@@ -7,4 +7,3 @@ Includes:
 - Code review philosophy
 - Onboarding practices
 - Agile workflows and metrics
-# engineering-playbook
